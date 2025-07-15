@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <title>Culto - Sequência de Músicas</title>
+  <style>
+    body {
+      background-color: #000;
+      color: #fff;
+      font-family: Arial, sans-serif;
+      padding: 20px;
+      line-height: 2;
+      font-size: 28px;
+    }
+    h1 {
+      text-align: center;
+      color: #00ffcc;
+      font-size: 36px;
+      margin-bottom: 40px;
+    }
+    h2 {
+      margin-top: 60px;
+      color: #00ccff;
+      font-size: 32px;
+    }
+    hr {
+      margin: 50px 0;
+      border: 1px solid #333;
+    }
+    .tom {
+      color: #aaa;
+      font-size: 24px;
+    }
+    pre {
+      font-family: monospace;
+      white-space: pre-wrap;
+      word-wrap: break-word;
+      font-size: 28px;
+      margin-top: 12px;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Culto - Música Isolada</h1>
+
+  <h2>6. [Nome da Música] <span class="tom">(Tom: G)</span></h2>
+  <pre>
+Intro:
+G C G C
+
+Verso 1:
+G C G C
+Em C G (x2)
+
+Coro:
+G D G G C G/B D4
+Em D/F# G C G/B D4
+C G/B D4
+
+Verso 2:
+G Am7 G/B C G/D C G/B C D
+
+Ponte:
+C G D (x3)
+
+A Cruz:
+C G/B Em D
+  </pre>
+<hr>
+</body>
+</html>
